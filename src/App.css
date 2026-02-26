@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	padding: 0 15px;
+	background-color: black;
+	font-family: sans-serif;
+	align-items: center;
+	height: 20vh;
+}
+h3 {
+	color: #fff;
+	font-size: 20px;
+}
+ul {
+	display: flex;
+	gap: 15px;
+	text-decoration: none;
+}
+a {
+	text-decoration: none;
+}
