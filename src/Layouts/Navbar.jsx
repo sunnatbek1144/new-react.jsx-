@@ -13,6 +13,9 @@ function Navbar() {
 				<li>
 					<Link to='/footer'>Footer</Link>
 				</li>
+				<li>
+					<Link to='/shop'>Shop</Link>
+				</li>
 			</ul>
 		</div>
 	)
