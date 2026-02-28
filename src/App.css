@@ -20,10 +20,12 @@ ul {
 	display: flex;
 	gap: 15px;
 	text-decoration: none;
+	list-style: none;
 }
 a {
 	text-decoration: none;
 }
-Link {
-	color: #eee;
+
+.navbar ul li Link {
+	color: #fff;
 }
