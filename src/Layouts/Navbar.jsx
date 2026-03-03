@@ -11,9 +11,6 @@ function Navbar() {
 					<Link to='/About'>About</Link>
 				</li>
 				<li>
-					<Link to='/footer'>Footer</Link>
-				</li>
-				<li>
 					<Link to='/shop'>Shop</Link>
 				</li>
 			</ul>
